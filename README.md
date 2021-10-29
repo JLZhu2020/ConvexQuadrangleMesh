@@ -1,1 +1,1 @@
-# StrictQuadrangleMesh
+# ConvexQuadrangleMesh
